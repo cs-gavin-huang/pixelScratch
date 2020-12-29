@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/code/scratch-a-pixel/src/mc/importance.cpp
+cstdlib
+-
+cstdio
+-
+cmath
+-
+drand48.h
+/Users/code/scratch-a-pixel/src/mc/drand48.h
+

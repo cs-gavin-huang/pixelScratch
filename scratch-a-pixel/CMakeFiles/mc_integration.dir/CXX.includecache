@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/code/scratch-a-pixel/src/mc/integration.cpp
+cstdlib
+-
+cstring
+-
+csignal
+-
+cstdio
+-
+cmath
+-
+fstream
+-
+iostream
+-
+algorithm
+-
+drand48.h
+/Users/code/scratch-a-pixel/src/mc/drand48.h
+

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/code/scratch-a-pixel/src/img/bokeh.cpp
+images.h
+/Users/code/scratch-a-pixel/src/img/images.h
+
+src/include/images.h
+cstring
+-
+cassert
+-
+fstream
+-
+algorithm
+-
+

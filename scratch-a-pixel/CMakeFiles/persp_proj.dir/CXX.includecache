@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/code/scratch-a-pixel/src/raster/persp_proj.cpp
+fstream
+-
+geometry.h
+/Users/code/scratch-a-pixel/src/raster/geometry.h
+
+src/include/geometry.h
+cstdlib
+-
+cstdint
+-
+cstdio
+-
+cmath
+-
+iostream
+-
+iomanip
+-
+utils.h
+src/include/utils.h
+
+src/include/utils.h
+algorithm
+-
+cmath
+-
+

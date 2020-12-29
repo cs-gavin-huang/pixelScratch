@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/code/scratch-a-pixel/src/mc/quasi.cpp
+cstdlib
+-
+cstdint
+-
+cstdio
+-
+cmath
+-
+fstream
+-
+drand48.h
+/Users/code/scratch-a-pixel/src/mc/drand48.h
+

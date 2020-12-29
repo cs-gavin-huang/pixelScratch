@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/code/scratch-a-pixel/src/raster/2d_triangle.cpp
+cstring
+-
+fstream
+-
+utils.h
+/Users/code/scratch-a-pixel/src/raster/utils.h
+
+src/include/utils.h
+algorithm
+-
+cmath
+-
+

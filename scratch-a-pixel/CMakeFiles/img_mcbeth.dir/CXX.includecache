@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/code/scratch-a-pixel/src/img/mcbeth.cpp
+fstream
+-
+iostream
+-
+cstdlib
+-
+cstdio
+-
+cmath
+-
+algorithm
+-
+
